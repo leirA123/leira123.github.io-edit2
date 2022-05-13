@@ -1,0 +1,758 @@
+<!DOCTYPE html><html class="no-js" lang="pt-BR"><head><meta charset="utf-8"><meta http-equiv="origin-trial" content="Anap2pKvJxw2GS+KliDdBtds+jRx9btCjtrJOxiH1OPP+lVDplNXLWgNziZ/9COp0HVfEDxHspTeUOl+hfaPdwIAAACEeyJvcmlnaW4iOiJodHRwOi8vd3d3LmIzLmNvbS5icjo4MCIsImZlYXR1cmUiOiJQcml2YXRlTmV0d29ya0FjY2Vzc05vblNlY3VyZUNvbnRleHRzQWxsb3dlZCIsImV4cGlyeSI6MTY1Mjc3NDQwMCwiaXNTdWJkb21haW4iOnRydWV9">
+<meta name="google-site-verification" content="emuI4V4FxM9i41NyW8Rpu54C6uik7DcnezlH6O2WXPs"><meta name="facebook-domain-verification" content="ppr3y2nbzrvretxjxfayghtakuh7nd"><script type="text/javascript" src="/ruxitagentjs_ICA2Vfgjqru_10237220328075400.js" data-dtconfig="rid=RID_1736992677|rpid=1953598535|domain=b3.com.br|reportUrl=/rb_ea8d7b8f-040c-423b-b726-54310cab2c40|app=fd69ce40c52bd20e|rcdec=1209600000|featureHash=ICA2Vfgjqru|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=kju5m9kg|mel=100000|dpvc=1|ssv=4|lastModification=1651884703105|dtVersion=10237220328075400|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/ruxitagentjs_ICA2Vfgjqru_10237220328075400.js"></script><link type="text/css" rel="stylesheet" href="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/css/search.css"><!--[if lt IE 9]><script type="text/javascript" src="lumis/tool/html5shiv/html5shiv.js"></script><![endif]--><script type="text/javascript">//<![CDATA[
+ var g_LumisLocale = "pt_BR"; var g_LumisChannelId = "8A68807D4DB5C270014DB5D71E4100C2"; var g_LumisRoot_href = "../../../../../"; var g_LumisRootChannelId = "00000000F00000000000000000000001"; var g_LumisPageId = "8AE690F76DA5C0E5016DA5CDE8DC127D"; var g_LumisPageConfig = new Object();g_LumisPageConfig.name = "Ações"; g_LumisPageConfig.type = 0; g_LumisPageConfig.isTemplate = false; g_LumisPageConfig.hasParentTemplate = true; var g_LumisLayoutFile = true; var g_LumisDisplayMode = 0; var g_LumisViewMode = 0; var g_LumisAdminMode = 2; var g_LumisPersonalizationMode = 5; var g_LumisInContextEditMode = 3; var g_LumisAutoAdminMode = 4;var g_LumisChannelConfig = new Object(); g_LumisChannelConfig.name = "Cotações";var g_LumisIsHtmlCache=true;var g_LumisRootPath='/';var g_LumisLoadingHtmlMessage="<img style=\"vertical-align: middle;\" alt=\"Carregando\" src=\"../../../../../lumis/portal/client/images/Loading.gif\">";
+//]]>
+</script><script type="text/javascript" charset="UTF-8" src="../../../../../lumis/portal/client/script/LumisPortal.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 
+<meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ações | B3</title>
+<link rel="stylesheet" href="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/css/foundation.css">
+<link rel="stylesheet" href="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/css/expanding.search.bar.css">
+<link rel="stylesheet" href="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/css/jquery-ui.css">
+<link rel="stylesheet" href="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/css/jquery.bxslider.css">
+<link rel="shortcut icon" href="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/img/favicon.ico">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat"> 
+
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/vendor/modernizr.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/vendor/jquery.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/bvmf.js"></script>
+
+ <meta name="generator" content="Lumis Portal"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Ações | B3"><meta name="og:title" content="Ações | B3"><link rel="canonical" href="https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/"><script type="text/javascript" charset="UTF-8" src="../../../../../lumis/doui/client/script/LumisDouiErrorSummary.js"></script>
+<script type="text/javascript">window.LumisBWKeys = window.LumisBWKeys || {};window.LumisBWKeys['LumisDouiErrorSummary.js'] = true;</script>
+<script type="text/javascript" charset="UTF-8" src="../../../../../lumis/doui/client/script/LumisDoui.js"></script>
+<script type="text/javascript" charset="UTF-8" src="../../../../../lumis/doui/control/validator/client/script/LumisDouiValidator.js"></script>
+<script type="text/javascript">window.LumisBWKeys = window.LumisBWKeys || {};window.LumisBWKeys['LumisDouiValidator.js'] = true;window.LumisBWKeys[' css/search.css'] = true;window.LumisBWKeys['LumisDoui.js'] = true;</script>
+<script type="text/javascript" src="../../../../../lumis/tool/jquery/jquery.js"></script>
+<script type="text/javascript">window.LumisBWKeys = window.LumisBWKeys || {};window.LumisBWKeys['jquery.js'] = true;</script><script id="verifyTradingScript">
+var ts = document.createElement('script');
+ts.setAttribute('type','text/javascript');
+ts.setAttribute('charset','UTF8');
+ts.setAttribute('data-domain-script','46432a4d-a7c6-4a59-9cbe-be7ab6e2adeb');
+ts.setAttribute('src','https://cdn.cookielaw.org/scripttemplates/otSDKStub.js');
+ts.setAttribute('data-document-language','true');
+
+var s = document.createElement('script');
+s.setAttribute('type','text/javascript');
+s.text = 'function OptanonWrapper() { }';
+
+if(g_LumisPageId != '8A68812D56B339A00156B34771851C98')
+
+{ document.head.appendChild(ts); document.head.appendChild(s); }
+document.getElementById("verifyTradingScript").remove();
+</script><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NXGFHZ4');</script><noscript></noscript></head><body><iframe height="0" width="0" style="display:none;visibility:hidden" src="https://www.googletagmanager.com/ns.html?id=GTM-NXGFHZ4"></iframe><!-- End Google Tag Manager --><p><script id="pageCalcScript">
+  //PAGE ID - IDENTIFICADOR UNICO
+  var pageId = "2C9FBE63638E25810163936E4D032B71";
+  //PAGE ID - IDENTIFICADOR UNICO
+  var scrI = document.createElement('script');
+  scrI.text = "(function(i){var ts=document.createElement('script');ts.type='text/javascript';ts.async=!0;ts.src=('https:'==document.location.protocol?'https://':'http://')+'tags.t.tailtarget.com/t3m.js?i='+i;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ts,s)})('TT-12801-5/CT-1038')";
+  var scrII = document.createElement('script');
+  scrII.setAttribute("async", "");
+  scrII.setAttribute('src','https://www.googletagmanager.com/gtag/js?id=AW-832571617');
+  var scrIII = document.createElement('script');
+  scrIII.text = "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','AW-832571617')";
+  if(g_LumisPageId === pageId){
+    document.head.appendChild(scrI);
+    document.head.appendChild(scrII);
+    document.head.appendChild(scrIII);
+  }
+  document.getElementById('pageCalcScript').remove();
+</script></p>
+
+<form style="display:none" accept-charset="UTF-8" id="LumisPortalForm" method="post" action="../../../../../main.jsp?lumPageId=8AE690F76DA5C0E5016DA5CDE8DC127D"><input name="lumNewParams" type="hidden"><input name="lumPrinting" type="hidden"><input name="lumToggleModeOriginUrl" type="hidden"><input name="lumSafeRenderMode" type="hidden"><input name="lumPageOriginalUrl" type="hidden" value="main.jsp?lumPageId=8AE690F76DA5C0E5016DA5CDE8DC127D"><input name="lumS" type="hidden" value=""><input name="lumSI" type="hidden" value=""><input name="lumI" type="hidden" value=""><input name="lumII" type="hidden" value=""><input name="lumReplIntfState" type="hidden" value=""><input name="lumPrevParams" type="hidden" value=""><input name="lumA" type="hidden" value=""><input name="lumDataPreviewMode" type="hidden" value=""><input name="lumClientMessage" type="hidden" value=""></form><script type="text/javascript">if(LumisPortal)LumisPortal.initLumisPortalForm("<allParameters><parameters><p n=\"lumFromPCM\">8AE490C977D179770177DEBE59D325A5<\/p><p n=\"lumChannelId\">8A68807D4DB5C270014DB5D71E4100C2<\/p><\/parameters><\/allParameters>");</script><form style="display:none" accept-charset="UTF-8" id="LumisPortalRenderInterfaceForm" method="post" action="../../../../../lumis/portal/controller/html/ServiceInterfaceInstanceControllerHtml.jsp?lumPageId=8AE690F76DA5C0E5016DA5CDE8DC127D&amp;lumPageCacheId=8AE490C977D179770177DEBE59D325A5"></form>
+
+<header id="cabecalho" class="contain-to-grid fixed"><div><div class="menu-acessibilidade">
+    <a accesskey="1" aria-label="Ir para o conteúdo principal" class="menu-item-acessivel" tabindex="1" href="#conteudo-principal">Ir conteúdo</a>
+    <a accesskey="2" aria-label="Ir para o menu" class="menu-item-acessivel" tabindex="2" href="#cabecalho">Ir menu</a>
+    <a accesskey="3" aria-label="Ir para o rodapé" class="menu-item-acessivel" tabindex="3" href="#rodape">Ir rodapé</a>
+</div></div><div>	
+		
+		<div class="column-search">
+<div class="row">
+<div id="sb-search" class="sb-search">
+<form method="get" autocomplete="off" action="../../../../../pt_br/busca/">
+<label for="query" class="sb-search-label">Campo de busca</label><input class="sb-search-input ui-autocomplete-input" type="text" value="" name="query" id="query" autocomplete="off" placeholder="Digite o que deseja: nome de empresa; código de ativo; outro termo qualquer." aria-label="Digite sua pesquisa"><button type="submit" class="sb-search-submit" id="sb-search-open" aria-label="Abrir o campo de busca"><span class="sb-icon-search"></span></button><button type="submit" class="sb-search-submit" id="sb-search-close" style="display:none;" aria-label="Fechar o campo de busca"><span class="sb-icon-search"></span></button>
+</form>
+</div>
+</div>
+</div><script type="text/javascript">
+				$(document).ready(function(){
+				
+					var intervalo = setInterval(()=>{
+						$('span.ui-helper-hidden-accessible').remove();
+						$('ul.ui-autocomplete').removeAttr("tabindex");
+						clearInterval(intervalo);
+					}, 100);
+					
+					$("#sb-search-open").click(function(){
+						$(this).hide();
+						$("#sb-search-close").show();
+					});
+					
+					$("#sb-search-close").click(function(){
+						$(this).hide();
+						$("#sb-search-open").show();
+					});
+					
+					$(".sb-icon-search").click(function(){
+						if($( "#search" ).val() !== ''){
+							$("#search" ).val("");
+							$( "#query" ).val("");
+						}
+					});
+					
+					$("#query").autocomplete({
+						source: requestAutocomplete,
+						minLength: 3,
+						select: function(event, ui){
+							//console.log("ui", ui);
+							
+							if(ui.item.url){
+								window.location.href = ui.item.url;
+							} else {
+								$( "#query" ).val(ui.item.value + " ");
+							}
+							return false;
+						},
+						delay: 100,
+						html: true
+					});				
+					
+					// Get the data containing render functions
+					var searchAutocomplete = $("#query").autocomplete().data('ui-autocomplete');
+					searchAutocomplete._renderItem = 
+					function (ul, item) {
+						var li = $("<li></li>");
+
+						if(item.isFirst){
+							li.addClass("lum-first");
+						}
+
+						if(item.isLast){
+							li.addClass("lum-last");
+						}
+
+						if(item.isListSeparator){
+							li.addClass("lum-service-search-lists-separator");
+						}
+
+						if(item.disabled){
+							li.addClass("lum-service-search-autocomplete-item-disabled");
+							li.attr("aria-disabled", "true");
+							li.append(item.label);
+						} else {
+							li.addClass("lum-service-search-autocomplete-item");
+							var link = $("<a></a>").append(item.label);
+							if(item.url){
+								li.addClass("lum-service-search-autocomplete-item-quicksearch");
+								link.attr("href", item.url);
+								var article = $("<article></article>").addClass("lum-content");
+								var header = $("<header></header>").addClass("lum-content-header");
+								if(( imgUrl = item.label.searchHit.document.lum_standard.introductionImageHref) !== undefined)
+									header.append($("<div></div>").addClass("lum-content-introduction-image").append($("<img>").attr("src", imgUrl)));
+								else if(item.label.searchHit.document.br_com_bvmf_internet_service_bvmfnoticias_noticias_sourcefield !== undefined)
+									if(item.label.searchHit.document.br_com_bvmf_internet_service_bvmfnoticias_noticias_sourcefield.conteudo !== undefined)
+										if((imgUrl = findFirstImg(item.label.searchHit.document.br_com_bvmf_internet_service_bvmfnoticias_noticias_sourcefield.conteudo)) !== null)
+											if(imgUrl.match("br/com/bvmf/internet/theme/bvmf-internet/img") === null)
+												header.append($("<div></div>").addClass("lum-content-introduction-image").append($("<img>").attr("src", imgUrl)));
+											
+								header.append($("<h1></h1>").append(item.label.searchHit.document.lum_standard.title).addClass("lum-content-title"));
+										
+								if(item.label.searchHit.highlights){
+									header.append($("<div></div>").append(item.label.searchHit.highlights[""][0]).addClass("lum-content-highlight"));
+								}
+
+								article.append(header);
+								link.append(article);
+							}
+							li.append(link);
+						}	
+						return li.appendTo(ul);
+					};
+
+					// Add lumis classes to the rendered menu ul
+					searchAutocomplete._renderMenu =
+					function(ul, items) {
+						var self = this;
+						ul.addClass("lum-service-search-autocomplete-list");
+						$.each(items, function(index, item){
+							self._renderItemData(ul, item);
+						});
+					};
+				});
+				
+					
+
+	function findFirstImg(content) {
+	 var documentContent = document.createElement('div');
+	 documentContent.innerHTML = content.split('src="lumis/portal/file/').join('src="/lumis/portal/file/');
+	 if(documentContent.getElementsByTagName("img").length > 0)
+	  return documentContent.getElementsByTagName("img")[0].src;
+	 return null;
+	}
+
+   function requestAutocomplete(query, response)
+	{
+	 $.ajax({
+	  url: g_LumisRootPath + "lumis/service/search/rest/autocomplete",
+	  method: "GET",
+	  data: {
+	   q : query.term,
+	   ii : '8AE690F76DA5C0E5016DA5F58A4E7189'
+	  },
+	  dataType: 'json',
+	  success: function (data){
+	   data = structurizeAutocomplete(data);
+	   response(data);
+	  }
+	 });
+	}
+
+	function structurizeAutocomplete(data)
+	{
+	 var newHits = new Array();
+
+	 if(data.hints.length > 0)
+	 {
+	  for(var i = 0; i < data.hints.length; i++)
+	  {
+	   newHits.push({
+		"value" : data.hints[i],
+		"label" : data.hints[i]
+	   });
+	  }
+	  newHits[0].isFirst = true;
+	  newHits[newHits.length-1].isLast = true;
+	 }
+
+	 if(data.quickSearch.length > 0)
+	 {
+	  if(data.hints.length > 0)
+	  {
+	   newHits[newHits.length-1].isListSeparator = true;
+	  }
+
+	  for(var i = 0; i < data.quickSearch.length; i++)
+	  {
+	   var href = data.quickSearch[i].url;
+
+	   newHits.push({
+		"value" : data.quickSearch[i].searchHit.document.lum_standard.title,
+		"label" : data.quickSearch[i],
+		"url" : href
+	   });
+	  }
+
+	  newHits[data.hints.length].isFirst = true;
+	  newHits[newHits.length-1].isLast = true;
+
+	  //console.log("newHits", newHits)
+	 }
+
+	 return newHits;
+	}
+	
+				</script>
+</div><div><div class="lumis-service-locale lumis-service-locale-localePicker lum-non-administration-area lum-interface-type-standard"><form id="Form_8AE690F76DA5C0E5016DA5F58A51718A" method="post" accept-charset="UTF-8" style="margin:0px;" action="../../../../../main.jsp?lumPageId=8AE690F76DA5C0E5016DA5CDE8DC127D&amp;lumA=1&amp;lumII=8AE690F76DA5C0E5016DA5F58A51718A"><input type="hidden" name="doui_processActionId"><input type="hidden" name="doui_renderAction"><input type="hidden" name="doui_renderControlId"><input type="hidden" name="doui_fromForm" value="Form_8AE690F76DA5C0E5016DA5F58A51718A"><input type="hidden" name="doui_storedValues" value=""><input type="hidden" name="lumII" value="8AE690F76DA5C0E5016DA5F58A51718A"><input type="hidden" name="lumReplIntfCommands" value=""><input type="hidden" name="lumReplIntfParams" value=""><section><div class="lum-content"><div class="lum-content-body"><div class="idioma-coluna"><div class="row"><div id="idioma_selector" class="idioma-drop"><button aria-expanded="false" id="botao-idioma" class="idioma-flag idioma-pt" title="Selecione o idioma" aria-label="Selecione o idioma que deseja"><span class="idioma-current-selected">pt_BR</span></button><ul class="idioma-list" aria-label="Lista de idiomas do site"><li class="idioma idioma-en" aria-label="Idioma English"><a onclick="document.forms['Form_8AE690F76DA5C0E5016DA5F58A51718A'].elements['doui_processActionId'].value='setLocaleProcessAction';document.forms['Form_8AE690F76DA5C0E5016DA5F58A51718A'].elements['locale'].value='en_US';LumisPortal.onSubmitForm('Form_8AE690F76DA5C0E5016DA5F58A51718A','8AE690F76DA5C0E5016DA5F58A51718A', null, true);return false;" title="English" href="../../../../../main.jsp?lumPageId=8AE690F76DA5C0E5016DA5CDE8DC127D&amp;lumA=1&amp;lumII=8AE690F76DA5C0E5016DA5F58A51718A&amp;locale=en_US&amp;doui_processActionId=setLocaleProcessAction"><span class="idioma-current-selected">en_US</span></a></li><li class="idioma idioma-es" aria-label="Idioma Español"><a onclick="document.forms['Form_8AE690F76DA5C0E5016DA5F58A51718A'].elements['doui_processActionId'].value='setLocaleProcessAction';document.forms['Form_8AE690F76DA5C0E5016DA5F58A51718A'].elements['locale'].value='es';LumisPortal.onSubmitForm('Form_8AE690F76DA5C0E5016DA5F58A51718A','8AE690F76DA5C0E5016DA5F58A51718A', null, true);return false;" title="Español" href="../../../../../main.jsp?lumPageId=8AE690F76DA5C0E5016DA5CDE8DC127D&amp;lumA=1&amp;lumII=8AE690F76DA5C0E5016DA5F58A51718A&amp;locale=es&amp;doui_processActionId=setLocaleProcessAction"><span class="idioma-current-selected">es</span></a></li></ul></div></div></div><input type="hidden" name="locale"><input type="hidden" name="currentUrl"><input type="hidden" name="bvmf-locales"><script type="text/javascript">
+				$(document).ready(function(){
+					document.forms['Form_8AE690F76DA5C0E5016DA5F58A51718A'].elements['currentUrl'].value=window.location.href;
+					$(".idioma-current-selected").each(function(){
+						var currentText = $(this).html();
+						if(currentText == "es"){
+							currentText = "ES (ES)";
+						}else{
+							currentText = currentText.replace("_"," ");
+							currentText = currentText.replace(" ", " (");
+							currentText += ")";
+							currentText = currentText.toUpperCase();
+						}
+						$(this).html(currentText);
+						$(this).css("display","flex");
+					})
+				if(document.getElementById("botao-idioma")){
+					document.getElementById("botao-idioma").addEventListener("click",function(){
+						if(document.getElementById("botao-idioma").getAttribute("aria-expanded") == "false"){
+							document.getElementById("botao-idioma").setAttribute("aria-expanded", "true");
+						}else{
+							document.getElementById("botao-idioma").setAttribute("aria-expanded", "false");
+						}
+					})
+				}
+				});
+			</script></div></div></section></form><input type="hidden" id="es8AE690F76DA5C0E5016DA5F58A51718A_Form_8AE690F76DA5C0E5016DA5F58A51718A_lum_errorSummary"></div></div><div><script>
+  $( document ).ready(function() {
+    $.get('/' + g_LumisLocale.toLocaleLowerCase() + '/blocos/', function(data) {
+    $(".contain-to-grid.fixed").append(data);
+  });
+});
+</script></div></header>
+<main id="conteudo-principal">
+<div class="banner-internas" style="background-image:url(../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/img/banner-internas.png)"></div>
+
+<div class="breadcrumb-background">
+    <div class="large-12 row">
+      <a class="voltar-mobile" href="javascript:history.go(-1)">
+        <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <mask id="mask0" maskunits="userSpaceOnUse" x="4" y="4" width="16" height="16">
+            <path d="M7.2998 12.8H7.7998H19.7998V11.2H7.7998H7.2998L7.6998 10.9L13.0998 5.39999L11.9998 4.29999L4.2998 12L11.9998 19.7L13.0998 18.6L7.6998 13.1L7.2998 12.8Z" fill="black"></path>
+            </mask>
+            <g mask="url(#mask0)">
+            <rect width="24" height="24" fill="#002C63"></rect>
+            </g>
+        </svg>
+        Voltar
+    </a>
+    	<div class="titulo-internas">
+<h1 aria-label="Ações">Ações</h1>
+<ul aria-label="Breadcrumb" class="breadcrumbs hide-for-small-only">
+<li><a href="/">Home</a></li>
+
+		<li><a href="../../../../../pt_br/market-data-e-indices/">Market Data e Índices</a></li>
+
+		<li><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/">Serviços de dados</a></li>
+
+		<li><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/market-data/">Market Data</a></li>
+
+		<li><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/">Cotações</a></li>
+
+			<li class="current"><a aria-label="Você está em: Ações">Ações</a></li>
+
+</ul>
+</div>
+    </div>
+</div>
+
+
+
+<div class="bg-conteudo">
+<div class="row main">
+<div class="large-12 columns">
+
+<div class="row"></div>
+
+<br>
+
+<div class="row">
+<div class="large-12 columns">
+
+<dl class="tabs"><li class="active"><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/">Ações</a></li><li><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/derivativos.htm">Derivativos</a></li><li><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/indices.htm">Índices</a></li><li><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/outros-ativos.htm">Outros Ativos</a></li></dl>
+<div class="tabs-content">
+  <div><div><div class="large-12 columns show-for-medium-up" aria-hidden="true">
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://s3.amazonaws.com/tradingview/tv.js"></script>
+<script type="text/javascript">
+  new TradingView.widget({
+	"container_id": "tv-adv-widget-home",
+	"width": "100%",
+	"height": "450px",
+	"symbol": get_param("symbol", get_param("tvwidgetsymbol", "IBOV")),
+	"interval": "1",
+	"timezone": "exchange",
+	"theme": "White",
+	"style": "3",
+	"toolbar_bg": "#f1f3f6",
+	"withdateranges": true,
+	"hide_side_toolbar": false,
+	"details": true,
+	"allow_symbol_change": true,
+	"hideideas": true,
+	"widgetbar_width": 300,
+	"show_popup_button": false,
+	"popup_width": "100%",
+	"popup_height": "450px",
+	"editablewatchlist": true,
+	"customer": "bovespa",
+	"locale": get_lang() == 'pt' ? 'br' : get_lang()
+  });
+</script>
+<!-- TradingView Widget END -->
+</div>
+
+<div class="large-12 columns show-for-small-only" aria-hidden="true">
+    <!-- TradingView Widget BEGIN -->
+    <div id="tv-medium-widget-263c2"></div>
+    <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+    <script type="text/javascript">
+
+	var small_tab_name = "Cotações";
+	var small_tabs_dict = new Array();
+	small_tabs_dict[0] = small_tab_name;
+	var small_symbols_dict = new Array();
+	small_symbols_dict[small_tab_name] = new Array();
+	small_symbols_dict[small_tab_name].push([get_param("symbol", "IBOV"), get_param("symbol", "IBOV")+"|1d"]);
+	
+    new TradingView.MiniWidget({
+      "container_id": "tv-mini-widget-home",
+      "tabs": small_tabs_dict,
+      "symbols": small_symbols_dict,
+      "gridLineColor": "#E9E9EA",
+      "fontColor": "#83888D",
+      "underLineColor": "#dbeffb",
+      "trendLineColor": "#4bafe9",
+      "activeTickerBackgroundColor": "#EDF0F3",
+      "noGraph": false,
+      "width": "100%",
+      "height": "253px",
+      "customer": "bovespa",
+      "locale": get_lang() == 'pt' ? 'br' : get_lang()
+    });
+    </script>
+    <!-- TradingView Widget END -->
+</div>
+<div class="large-12 columns show-for-medium-up" aria-hidden="true">
+<p class="small" style="padding-top:10px"><a target="_blank" href="https://br.tradingview.com/symbols/BMFBOVESPA-IBOV/">IBOV</a> chart by TradingView </p>
+</div></div><div><div class="large-12 columns"><div>
+<div id="resumoIbovAcessibilidade">Índice IBOVESPA hoje: <span id="ibovPts">Total de pontos: </span> <span id="ibovPct"></span></div>
+
+<div class="large-12 columns">
+<div class="list-avatar">
+<div class="list-avatar-row">
+<div class="primary-action"><img alt="Ícone" aria-hidden="true" src="/lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/img/ic_cloud_download_black_48dp.png"></div>
+
+<div class="content">
+<p class="primary-text"><a href="../../../../../pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/cotacoes/">Clique aqui para consultar todos os negócios de um determinado ativo</a></p>
+</div>
+</div>
+
+<div class="divider"><!--Divider--></div>
+</div>
+</div>
+<input id="bvmf-locales-content" name="bvmf-locales-content" type="hidden" value="pt_BR,en_US,"></div>
+<script>
+    var locale = window.location.href.includes("pt_br") ? "pt-br" : "en-us";
+    $.ajax({
+        url: "https://cotacao.b3.com.br/mds/api/v1/instrumentQuotation/ibov"
+    }).then(function(data) {
+        var pct = parseFloat(data.Trad[0].scty.SctyQtn.prcFlcn).toFixed(2);
+        $('#ibovPct').text("Variação percentual atual: "+(((pct>0)?"+"+pct:pct)+'%'));
+        if(locale !== 'en-us')
+            $('#ibovPct').text($('#ibovPct').text().replace('.',','));
+        if(data.Trad[0].scty.SctyQtn.curPrc !== undefined)
+            $('#ibovPts').text($('#ibovPts').text() + parseInt(data.Trad[0].scty.SctyQtn.curPrc).toLocaleString(locale).toString());
+        else
+            $('#ibovPts').text($('#ibovPts').text() + parseInt(0).toString());
+    });
+    $('#cotacoesConsume').remove();
+</script></div><input type="hidden" id="bvmf-locales-content" name="bvmf-locales-content" value="pt_BR,en_US,"></div><div><!--?xml version="1.0" encoding="UTF-8" ?-->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:el="http://www.lumis.com.br/lumisportal/xsd/layoutfile/el" version="1.0">
+    <xsl:include href="/br/com/bvmf/internet/service/common/style/bvmf-multi-idioma.xsl" />
+	<xsl:output omit-xml-declaration="yes" method="xml" />
+	
+	<xsl:template match="/">
+	
+	<xsl:variable name="strLocale" select="translate(//douiContext/locale, '_','-')" />
+	<xsl:variable name="pageUrl" select="concat('main.jsp?lumPageId=', //douiContext/pageId)" />
+  	<script type="text/javascript" src="https://s3.amazonaws.com/tradingview/tv.js"></script>
+
+    <div class="content active" id="panel2-1">                
+
+    <div class="row">
+		<div class="large-8 columns" style="display:none" id="divInfoPregao">
+			<div class="panel">
+                  <p class="text-center">
+                    <img alt="Ícone" aria-hidden="true" src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/img/ic_warning_black_36dp.png">
+                  </p>
+                  <p class="text-center">As cotações serão exibidas 15 minutos após a abertura do pregão.</p>
+            </div>		
+		</div>
+		
+        <div class="large-8 columns" id="divGraficoMaiores" aria-hidden="true">
+			<div id="tradingview-widget-acoes" class="tradingview-widget-container__widget"></div>
+			<script type="text/javascript">
+				function getAcoes(){
+					var abas = [];
+					var maioresBaixas = [];
+					var maioresAltas = [];
+					var maisNegociadas = [];
+					$("#divInfoPregao").css("display","none");		
+					
+					$.ajax({
+							url: "https://cotacao.b3.com.br/mds/api/v1/InstrumentPriceFluctuation/ibov",
+							async: false
+						}).done(function(data) {
+							for(var x in data.SctyHghstDrpLst)
+								maioresBaixas.push({"s":"BMFBOVESPA:"+data.SctyHghstDrpLst[x].symb, "d":data.SctyHghstDrpLst[x].desc});
+							for(var x in data.SctyHghstIncrLst)
+								maioresAltas.push({"s":"BMFBOVESPA:"+data.SctyHghstIncrLst[x].symb, "d":data.SctyHghstIncrLst[x].desc});
+						});
+					$.ajax({
+							url: "https://cotacao.b3.com.br/mds/api/v1/InstrumentTradeVolume/vista",
+							async: false
+						}).done(function(data) {
+							for(var x in data.Volume)
+								maisNegociadas.push({"s":"BMFBOVESPA:"+data.Volume[x].scty.symb, "d":data.Volume[x].scty.desc});
+						});
+					abas.push({"title":"Maiores altas", "symbols": maioresAltas});
+					abas.push({"title":"Maiores baixas", "symbols": maioresBaixas});
+					abas.push({"title":"Mais negociadas", "symbols": maisNegociadas});
+					return abas;
+				}
+				
+				var returnAcoes = getAcoes();
+				
+				if (returnAcoes != null && returnAcoes[0].symbols.length > 0)
+				{
+					$("#divGraficoMaiores").css("display","block");				
+					var widgetSettings = {
+									  "showChart": false,
+									  "locale": get_lang() == 'pt' ? 'br' : get_lang(),
+									  "width": "100%",
+									  "height": "400",
+									  "customer": "bovespa",
+									  "largeChartUrl": window.location.href.substring(0, window.location.href.lastIndexOf('/') + 1),
+									  "tabs": returnAcoes
+									};
+					
+					script = document.createElement('script');
+					script.setAttribute('src', 'https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js');
+					script.setAttribute('async', "");						
+					script.innerHTML = JSON.stringify(widgetSettings);
+					document.getElementById("tradingview-widget-acoes").appendChild(script);
+				}
+				else
+				{
+					$("#divInfoPregao").css("display","block");		
+					$("#divGraficoMaiores").css("display","none");
+				}
+			</script>			
+        </div>	
+		
+        <div class="large-4 columns">
+            <div class="panel callout">
+                    <div class="list-avatar two-line">
+						<br><br>
+                      <div class="list-avatar-row">
+                        <div class="primary-action">
+                          <img alt="Ícone" aria-hidden="true" src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/img/ic_query_builder_black_48dp.png">
+                        </div>
+                        <div class="content">
+                          <p class="primary-text">
+                            <span id="x-status-pregao">Pregão em andamento</span>
+                          </p>
+                          <p class="secondary-text">
+                            <span id="x-data-pregao">-</span>
+                          </p>
+				<script type="text/javascript">
+					  $.ajax({
+					url: 'https://cotacao.b3.com.br/mds/api/v1/TradingFloorInfo'
+				}).then(function(data) {
+					var pregaoData = new Date(data.Msg.dtTm.replace(/[a-z|A-Z]+/g," ").trim().split("-").join("/"));
+					$("#x-data-pregao").text(pregaoData.toLocaleString('pt-BR'));  
+					var strFase = data.TradgFlr.TradgFlrSts.desc;
+					if (strFase === "E")
+						$("#x-status-pregao").text("Pregão encerrado");
+					else
+						$("#x-status-pregao").text("Pregão em andamento");
+					var vol = data.TradgFlr.grssAmt !== undefined ? "R$ " + parseInt(data.TradgFlr.grssAmt).toLocaleString('pt-BR') : "---";
+					var neg = data.TradgFlr.qty !== undefined ? parseInt(data.TradgFlr.qty).toLocaleString('pt-BR') : "---";
+					$("#x-volume-pregao").text(vol);
+					$("#x-qtd-pregao").text(neg);
+				});
+				</script>							
+                        </div>
+                      </div>
+                        <br>
+                    </div>
+
+
+                    <div class="list-avatar two-line">
+                      <div class="list-avatar-row">
+                        <div class="primary-action">
+                          <img alt="Ícone" aria-hidden="true" src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/img/ic_trending_up_black_48dp.png">
+                        </div>
+                        <div class="content">
+                          <p class="primary-text">Volume negociado</p>
+                          <p class="secondary-text">
+                            <span id="x-volume-pregao">-</span>
+                          </p>
+                        </div>
+                      </div>
+                        <br>
+                    </div>
+
+
+                    <div class="list-avatar two-line">
+                      <div class="list-avatar-row">
+                        <div class="primary-action">
+                          <img alt="Ícone" aria-hidden="true" src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/img/ic_assessment_black_48dp.png">
+                        </div>
+                        <div class="content">
+                          <p class="primary-text">Quantidade de negócios</p>
+                          <p class="secondary-text">
+                            <span id="x-qtd-pregao">-</span>
+                          </p>
+                        </div>
+                      </div>
+                        <br><br>
+                    </div>
+              </div>
+        </div>
+    </div>	
+		<div class="row">
+			<div class="large-12 columns">
+				<br>
+				<p class="legenda">Dados com atraso de 15 minutos</p>
+			</div>
+		</div>
+	</div>
+        
+        
+<xsl:call-template name="BVMFLocales" />
+	</xsl:template>
+</xsl:stylesheet></div></div>
+  <div></div>
+  <div></div>
+  
+  <div></div>
+  
+  </div>
+</div>
+
+</div>
+
+<div><div class="panel">
+<p class="legenda"><!--span>O hist&oacute;rico em D+1 dos neg&oacute;cios do segmento BM&amp;F est&aacute; no arquivo NEG_BMF_AAAAMMDD.gz que pode ser encontrado <a href="ftp://ftp.bmf.com.br/MarketData/BMF/" target="_blank">aqui</a><br />
+O hist&oacute;rico em D+1 dos neg&oacute;cios do segmento do segmento BOVESPA para os instrumentos &agrave; Vista e Termo est&aacute; no arquivos NEG_AAAAMMDD.gz e pode ser encontrado <a href="ftp://ftp.bmf.com.br/MarketData/Bovespa-Vista/" target="_blank">aqui</a><br />
+O hist&oacute;rico em D+1 dos neg&oacute;cios do segmento do segmento BOVESPA para os instrumentos fracion&aacute;rios est&aacute; no arquivo NEG_FRAC_AAAAMMDD.gz e pode ser encontrado <a href="ftp://ftp.bmf.com.br/MarketData/Bovespa-Vista/" target="_blank">aqui</a><br />
+O hist&oacute;rico em D+1 dos neg&oacute;cios do segmento do segmento BOVESPA para Op&ccedil;&otilde;es est&aacute; no arquivo NEG_OPCOES_AAAAMMDD.gz e pode ser encontrado <a href="ftp://ftp.bmf.com.br/MarketData/Bovespa-Opcoes/" target="_blank">aqui</a><br />
+<br /></span--><a href="http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-a-vista/titulos-negociaveis/">Clique aqui para consultar o nome do papel negociado por uma empresa</a>.</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</main>
+
+<footer id="rodape" class="footer"><script>
+  $( document ).ready(function() {
+    $.get('/' + g_LumisLocale.toLocaleLowerCase() + '/blocos/rodape.htm', function(data) {
+    $(".footer").append(data);
+  });
+});
+</script></footer>
+
+
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/foundation.min.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/jquery.stellar.min.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/responsive.tables.min.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/search/classie.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/search/uisearch.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/jquery-ui.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/jquery.bxslider.min.js"></script>
+<script src="../../../../../lumis-theme/br/com/bvmf/internet/theme/bvmf-internet/js/bowser.min.js"></script>
+
+<script>   	
+	
+
+	
+    $('#Section-1').hover(function () { $('.top-bar-section ul li.Section-1').toggleClass('active'); });
+    $('#Section-2').hover(function () { $('.top-bar-section ul li.Section-2').toggleClass('active'); });
+    $('#Section-3').hover(function () { $('.top-bar-section ul li.Section-3').toggleClass('active'); });
+    $('#Section-4').hover(function () { $('.top-bar-section ul li.Section-4').toggleClass('active'); });
+    $('#Section-5').hover(function () { $('.top-bar-section ul li.Section-5').toggleClass('active'); });
+	
+    $("table").addClass("responsive");
+    $.stellar({ horizontalScrolling: false });
+	$(document).ready(function(){ 
+		var hash = window.location.hash.replace("#","");		
+		if(hash != "") {
+			$('span[id="' + hash + '"]').eq(0).closest( "tr" ).addClass('selected');		
+		}
+	})
+	
+	getMobileOperatingSystem();	
+    if(document.getElementById('sb-search') != null)
+    	new UISearch(document.getElementById('sb-search'));
+	
+	function getMobileOperatingSystem() {
+	   var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+	   if( userAgent.match( /iPad/i ) )
+	   {
+			$('#baixar').attr('href', 'https://itunes.apple.com/br/app/bm-fbovespa/id398700163?mt=8')
+	   }
+	   else if( userAgent.match( /iPhone/i ) )
+	   {
+			$('#baixar').attr('href', 'https://itunes.apple.com/us/app/bm-fbovespa-quotations/id412991543?mt=8')
+	   }
+	   else if( userAgent.match( /Android/i ) )
+	   {
+			$('#baixar').attr('href', 'https://play.google.com/store/apps/details?id=br.bovespa&hl=pt_BR')
+	   }
+ }
+	
+ $('.bxslider').bxSlider({
+    mode: 'fade',
+    hideControlOnEnd: true,
+    infiniteLoop: false,
+    });
+	
+	/*Select Multidiomas*/
+	$(document).ready(function(){
+	
+	    $(document).foundation({
+		  reveal : {
+			animation: 'fade',
+			}
+		});
+	
+	  $(".idioma-flag").click(function(){
+		$(".idioma-drop").toggleClass("open");
+	  });
+	  $("ul.idioma-list li").click(function(){
+		$("ul.idioma-list li").removeClass("selected");
+		$(this).addClass("selected");
+		
+		if($(this).hasClass('idioma-en')){
+		  $(".idioma-drop").find(".idioma-flag").addClass("idioma-en").removeClass("idioma-es").removeClass("idioma-pt");
+		  $("#idioma_selected").html("<p>EN</p>")
+		  
+		}else if($(this).hasClass('idioma-pt')){
+		  $(".idioma-drop").find(".idioma-flag").addClass("idioma-pt").removeClass("idioma-es").removeClass("idioma-en");
+		$("#idioma_selected").html("<p>PT</p>")
+		
+		}else{
+		  $(".idioma-drop").find(".idioma-flag").addClass("idioma-es").removeClass("idioma-en").removeClass("idioma-pt");
+		  $("#idioma_selected").html("<p>ES</p>")
+		}
+		$(".idioma-drop").removeClass("open");
+	  });
+	})
+	
+</script>
+<script type="text/javascript">
+//<![CDATA[
+ if(document.cookie.search("lumUserLocale=pt_BR")==-1)document.write("<div style=\"display:none\"><img src=\"../../../../../lumis/portal/controller/html/SetLocale.jsp?lumUserLocale=pt_BR\" alt=\" \"/><\/div>");
+//]]>
+</script><script>
+$(window).on("load", function() {
+	if (g_LumisPageId && g_LumisPageId == "8AE690F7758F255601775DE2182E4F35") {
+      	$("#ot-sdk-btn.ot-sdk-show-settings, #ot-sdk-btn.optanon-show-settings").hover(function() {
+          	$(this).css({
+	        	"background-color": "#00b0e6"
+      		})
+    	});
+        $("#ot-sdk-btn.ot-sdk-show-settings, #ot-sdk-btn.optanon-show-settings").css({
+    		"color": "#fff",
+    		"border": "none"
+		});
+    }
+})
+</script><script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script><script>
+	$(window).on("load", function() {
+      	$html_vlibras = '<div class="enabled" vw=""><div class="active" vw-access-button="">&nbsp;</div><div vw-plugin-wrapper=""><div class="vw-plugin-top-wrapper">&nbsp;</div></div></div>';
+      $('body').append($html_vlibras);
+    })
+</script>
+<script>
+if (window.VLibras != undefined) {
+  new window.VLibras.Widget('https://vlibras.gov.br/app');
+}
+</script>
+
+</body></html>
